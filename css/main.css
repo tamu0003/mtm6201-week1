@@ -1,23 +1,41 @@
 body{
-    background-color: bisque;
+    background-color: #19284f;
     font-family: 'Open Sans', sans-serif;
     line-height: 1.5;
+}
+
+h1{
+    background-color: #e16a59;
+    padding: 15px;
 }
 
 .wrapper{
     width: 1000px;
     margin: 0 auto;
 }
-
 .bio{
-    margin: 0 auto;
-    width: 900px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
+
+p{
+    color: aliceblue;
+}
+
 img{
     max-width: 150px;
     float: left;
     margin-right: 10px;
 }
+
+.lists{
+    background-color: #e16a59;
+}
+
+.lists dl{
+    padding: 15px;
+}
+
 .lists dl dt {
     font-weight: bold;
     font-size: 1.15rem;
