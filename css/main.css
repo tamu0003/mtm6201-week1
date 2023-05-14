@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.wrapper{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.bio{
+    margin: 0 auto;
+}
+img{
+    max-width: 150px;
+    float: left;
+    margin: 20px;
+}
