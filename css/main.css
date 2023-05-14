@@ -1,18 +1,28 @@
 body{
     background-color: bisque;
     font-family: 'Open Sans', sans-serif;
+    line-height: 1.5;
 }
 
 .wrapper{
-    width: 1200px;
+    width: 1000px;
     margin: 0 auto;
 }
 
 .bio{
     margin: 0 auto;
+    width: 900px;
 }
 img{
     max-width: 150px;
     float: left;
-    margin: 20px;
+    margin-right: 10px;
+}
+.lists dl dt {
+    font-weight: bold;
+    font-size: 1.15rem;
+}
+
+.lists dl dd{
+    margin-left: 0;
 }
